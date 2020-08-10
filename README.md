@@ -1,0 +1,85 @@
+# Test - Frontend Developer
+
+## Requirement
+
+- Create Skeleton Component
+- Separate route to display result
+- Fetch data and display data from API
+- Solve problems use JavaScript functions
+
+## Route to display result
+
+    |-- Test form and validation
+    |-- Fetch Pokemon's API
+    |-- Function 1
+    |-- Function 2
+    |-- Function 3
+
+## 1. Test form and validation
+
+- ### สร้าง form สำหรับกรอกข้อมูล ดังตัวอย่าง
+  ![form 1](./images/form-1.png)
+- ### validate inputs ข้อมูลแต่ละชนิดให้ถูกต้อง หากไม่ถูกต้องให้แจ้งเตือน
+  ![form 2](./images/form-2.png)
+- ### เมื่อ validate form ผ่านให้แสดงผลลัพท์ดังตัวอย่างด้านล่าง
+  ![form 3](./images/form-3.png)
+
+## 2. Test fetch Pokemon's api
+
+- ### สร้าง placeholder หรือ skeleton สำหรับการรอ fetch data
+  ![pokemon 1](./images/pokemon-1.png)
+- ### fetch pokemon's data จาก `https://pokeapi.co/api/v2`
+- #### ดึงข้อมูลของ pokemon แต่ละตัวผ่าน api ex. GET-> https://pokeapi.co/api/v2/pokemon/1
+- #### ดึงข้อมูลของ pokemon id ที่ 1-104 แล้วนำมาแสดงในหน้ารวม
+  ![pokemon 2](./images/data.png)
+- #### ให้แสดง ชื่อ,รูป ของ pokemon เท่านั้น และแสดง แถวละ 6 ตัว ดังตัวอย่าง
+  ![pokemon 3](./images/pokemon-2.png)
+
+### 3. Test Function 1
+
+#### \*ใช้ข้อมูลจาก json ที่แนบไว้กับ github -> exam-data.json
+
+หา product หลัก ที่มี is_editable_price = false หลังจากนั้นให้รวมน้ำหนักสินค้าย่อยทั้งหมด ตอบเอาเฉพาะชื่อ และน่ำหนักรวม เช่น
+`[{ name: ‘Wow product’, totalSubProductWeight: 200 }]`
+และแสดงผลในหน้า Function 1
+
+### 4. Test Function 2
+
+ให้แปลงรูปแบบวันที่ จาก `2020-08-10T14:54:52+07:00` เป็น format ดังต่อไปนี้
+
+```
+10/08/2020 14:54
+10 สิงหาคม 2563 // รูปแบบปฏิทินไทย
+31 // จำนวนวันในเดือนนี้
+3 // ไตรมาตรของเดือนนี้
+1597046092 // Unix timestamp
+```
+
+แสดงผลลัพท์ให้หน้า Function 2
+
+### 5. Test Function 3
+
+เขียน function ตรวจสอบว่าตัวเลขที่อยู่ใน array ซ้ำกันหรือไม่
+
+```
+use case
+[] //false
+[1] //false
+[1,2,3] //false
+[1,1] //false
+[1,2,1] //false
+```
+
+แสดงผลลัพท์ให้หน้า Function 3
+
+## Deployment
+
+- Commit code to your github and send github link back to official e-mail to validation your test
+- Deploy application on hosting, Choose 1 provider to deploy, Recommend on below
+  - Firebase Hosting
+  - Netlify
+  - Heroku
+
+## Problem
+
+- If you have some question or some problem, You can ask our
