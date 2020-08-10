@@ -1,5 +1,8 @@
 # Test - Frontend Developer
 
+- สามารถใช่้ Vue, React, Angular ในการทำข้อสอบได้
+- สามารถใช้ CSS Framework ใดๆ ในการทำได้ 
+
 ## Requirement
 
 1. สร้าง form และ validate ข้อมูล
@@ -87,8 +90,8 @@ use case
 ## Deployment
 
 - หลังจากืทำการทดสอบเสร็จแล้วให้ commit และ push code ขึ้นไปยัง github ของตนเอง
-- ตอบกลับอีเมล์ที่ได้ส่งโจทย์ github link กลับมายังบริษัท
-- Deploy application ขึ้นไปยัง Hosting แนะนำผู้ให้ยริการตามด้านล่าง
+- ตอบกลับอีเมล์ที่โดยแนบ github link กลับมายังบริษัท
+- Deploy application ขึ้นไปยัง Hosting แนะนำผู้ให้บริการตามด้านล่าง
   - Firebase Hosting
   - Netlify
   - Heroku
