@@ -1,6 +1,6 @@
 # Test - Frontend Developer
 
-- สามารถใช่้ Vue, React, Angular ในการทำข้อสอบได้
+- สามารถใช้ Vue, React, Angular ในการทำข้อสอบได้
 - สามารถใช้ CSS Framework ใดๆ ในการทำได้ 
 
 ## Requirement
