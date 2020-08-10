@@ -2,10 +2,13 @@
 
 ## Requirement
 
-- Create Skeleton Component
-- Separate route to display result
-- Fetch data and display data from API
-- Solve problems use JavaScript functions
+1. สร้าง form และ validate ข้อมูล
+2. ดึงข้อมูลจาก pokemon's api และแสดงผล
+3. แก้ปัญหาเรื่องสินค้าจาก example-data.json
+4. แก้ปัญหาเรื่องวันที่และเวลา
+5. แก้ปัญหาเรื่องการตรวจสอบข้อมูลใน array
+6. สร้าง route หรือ path สำหรับแสดงผล ข้อที่ 1-5
+   Solve problems use JavaScript functions
 
 ## Route to display result
 
@@ -74,12 +77,13 @@ use case
 
 ## Deployment
 
-- Commit code to your github and send github link back to official e-mail to validation your test
-- Deploy application on hosting, Choose 1 provider to deploy, Recommend on below
+- หลังจากืทำการทดสอบเสร็จแล้วให้ commit และ push code ขึ้นไปยัง github ของตนเอง
+- ตอบกลับอีเมล์ที่ได้ส่งโจทย์ github link กลับมายังบริษัท
+- Deploy application ขึ้นไปยัง Hosting แนะนำผู้ให้ยริการตามด้านล่าง
   - Firebase Hosting
   - Netlify
   - Heroku
 
 ## Problem
 
-- If you have some question or some problem, You can ask our
+- หากทีปัญหาหรือข้อสงสงสัยให้ติดต่อกลับโดยด่วน ผ่านทางอีเมล์ หรือ Facebook: Paiduaykanmai Co., Ltd.
