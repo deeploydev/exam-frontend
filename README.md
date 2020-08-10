@@ -89,7 +89,7 @@ use case
 
 ## Deployment
 
-- หลังจากืทำการทดสอบเสร็จแล้วให้ commit และ push code ขึ้นไปยัง github ของตนเอง
+- หลังจากทำการทดสอบเสร็จแล้วให้ commit และ push code ขึ้นไปยัง github ของตนเอง
 - ตอบกลับอีเมล์ที่โดยแนบ github link กลับมายังบริษัท
 - Deploy application ขึ้นไปยัง Hosting แนะนำผู้ให้บริการตามด้านล่าง
   - Firebase Hosting
@@ -98,4 +98,4 @@ use case
 
 ## Problem
 
-- หากทีปัญหาหรือข้อสงสงสัยให้ติดต่อกลับโดยด่วน ผ่านทางอีเมล์ หรือ Facebook: Paiduaykanmai Co., Ltd.
+- หากมีปัญหาหรือข้อสงสงสัยให้ติดต่อกลับโดยด่วน ผ่านทางอีเมล์ หรือ Facebook: Paiduaykanmai Co., Ltd.
