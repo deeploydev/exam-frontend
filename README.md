@@ -12,6 +12,7 @@
 5. แก้ปัญหาเรื่องการตรวจสอบข้อมูลใน array
 6. สร้าง route หรือ path สำหรับแสดงผล ข้อที่ 1-5
    Solve problems use JavaScript functions
+** หมายเหตุ  ข้อ 1-2 ไม่จำเป็นต้องทำเหมือนกับข้อสอบ เป็นเพียงแค่แนวทางในการวางlayoutเท่านั้น
 
 ## Route to display result
 
