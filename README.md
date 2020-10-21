@@ -46,7 +46,7 @@
 
 #### \*ใช้ข้อมูลจาก json ที่แนบไว้กับ github -> exam-data.json
 
-หา product หลัก ที่มี is_editable_price = false หลังจากนั้นให้รวมน้ำหนักสินค้าย่อยทั้งหมด ตอบเอาเฉพาะชื่อ และน่ำหนักรวม เช่น
+หา product หลัก ที่มี `is_editable_price = false` หลังจากนั้นให้รวมน้ำหนักสินค้าย่อยทั้งหมด ตอบเอาเฉพาะชื่อ และน่ำหนักรวม เช่น
 `[{ name: ‘Wow product’, totalSubProductWeight: 200 }]`
 และแสดงผลในหน้า Function 1
 
