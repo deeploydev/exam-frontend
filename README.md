@@ -1,4 +1,4 @@
-# Test - Frontend Developer
+# Frontend
 
 - สามารถใช้ Vue, React, Angular ในการทำข้อสอบได้
 - สามารถใช้ CSS Framework หรือ custom CSS เองได้
