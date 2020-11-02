@@ -1,6 +1,6 @@
 # Frontend
 
-- สามารถใช้ Vue, React, Angular ในการทำข้อสอบได้
+- สามารถใช้ Vue, React, Angular หรือ Framework ใดๆ ในการทำข้อสอบได้
 - สามารถใช้ CSS Framework หรือ custom CSS เองได้
 
 ## Requirement
